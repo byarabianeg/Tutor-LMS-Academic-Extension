@@ -1,0 +1,5 @@
+.tlae-tabs ul { list-style: none; margin: 0; padding: 0; }
+.tlae-tabs ul li { display: inline-block; margin-right: 10px; }
+.tlae-tabs ul li a { padding: 10px; background: #f1f1f1; text-decoration: none; }
+.tlae-tabs div { display: none; }
+.tlae-tabs div.active { display: block; }

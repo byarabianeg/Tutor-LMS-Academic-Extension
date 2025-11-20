@@ -1,0 +1,13 @@
+# Copyright (C) 2025 Your Name
+# This file is distributed under the same license as the Tutor LMS Academic Extension package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Tutor LMS Academic Extension 1.0.0\n"
+"Report-Msgid-Bugs-To: https://example.com\n"
+"POT-Creation-Date: 2025-11-20 00:00:00+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
